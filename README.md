@@ -102,6 +102,7 @@ The following screenshot shows the C# source code used to implement the logout f
 
 ![Logout Code](https://github.com/eng-mohaamiin/C-Sharp-Chapter1/blob/423d3f7d559c0614062719fd61fd00321a9ea4cd/ScreenShot/Logout.png)
 
-Author
+## Author
 
 Mohamed Amiin
+
