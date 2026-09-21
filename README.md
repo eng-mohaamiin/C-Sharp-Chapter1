@@ -102,6 +102,6 @@ The following screenshot shows the C# source code used to implement the logout f
 
 ![Logout Code](https://github.com/eng-mohaamiin/C-Sharp-Chapter1/blob/423d3f7d559c0614062719fd61fd00321a9ea4cd/ScreenShot/Logout.png)
 
-## Conclusion
+###Author
 
-This Week 1 practice provided hands-on experience with creating a basic Windows Forms application using C#. It demonstrated how to design a login interface, validate user input, navigate between forms, and implement login and logout functionality.
+##Mohamed Amiin
